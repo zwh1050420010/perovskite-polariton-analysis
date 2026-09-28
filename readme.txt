@@ -6,8 +6,8 @@ angle-resolved polariton dispersion reported in the manuscript
 
 ## Requirements
 
-- MATLAB R20XXx
-- Operating system: Windows 10/11
+- MATLAB R2026b
+- Operating system: Windows 10
 - No non-standard hardware is required.
 
 ## Description
